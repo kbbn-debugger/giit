@@ -7,3 +7,10 @@ def printer():
 
 def printer2():
     print(x+y)
+
+def printer3():
+    print(x*y)
+
+printer()
+printer2()
+printer3()
