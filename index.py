@@ -1,4 +1,1 @@
-word = "hello world"
-
-def printer():
-    print(word)
+print("hello")
