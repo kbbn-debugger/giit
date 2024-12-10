@@ -11,6 +11,10 @@ def printer2():
 def printer3():
     print(x*y)
 
+def printer4():
+    print((x+x)*y)
+
 printer()
 printer2()
 printer3()
+printer4()
